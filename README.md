@@ -1,7 +1,7 @@
 # Olá eu sou o Gabriel Mendes 
 <div>
     <a hfref="https://github.com/Gabriel-mendes-g">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-mendes-g&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-mendes-g&show_icons=false&theme=dracula">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mendes-g&layout=compact&theme=dracula"/>
 </div>
 
